@@ -24,11 +24,11 @@ O site ainda está em Desenvolvimento mas já está em produção [aqui](https:/
 
 ## TODO
 
-[x] Criar componente: LinkBox.
-[] Criar componente: Background.
-[] Acrescentar ícones.
-[] Fazer a conexão com o CMS.
-[] Acrescentar componente de SEO.
+- [x] Criar componente: LinkBox.
+- [ ] Criar componente: Background.
+- [ ] Acrescentar ícones.
+- [ ] Fazer a conexão com o CMS.
+- [ ] Acrescentar componente de SEO.
 
 
 ## Como Funciona a Aplicação
