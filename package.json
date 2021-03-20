@@ -11,7 +11,7 @@
     "test:watch": "yarn test --watch",
     "generate": "yarn plop --plopfile generators/plopfile.js",
     "storybook": "start-storybook -s ./public -p 6006",
-    "build-storybook": "rm -rf storybook && build-storybook -o ./public",
+    "build-storybook": "build-storybook -s ./public",
     "postinstall": "husky install"
   },
   "lint-staged": {

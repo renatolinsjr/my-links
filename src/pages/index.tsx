@@ -1,5 +1,5 @@
-import Main from 'components/Main'
+import LinkBox from 'components/LinkBox'
 
 export default function Home() {
-  return <Main />
+  return <LinkBox>kkk</LinkBox>
 }
