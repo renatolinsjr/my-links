@@ -19,11 +19,21 @@
 
 EM BREVE!
 
-Enquanto isso, pode olhar o [Storybook](https://storybook-my-links.renatolins.dev.br/?path=/story/linkbox--default)
+Enquanto isso, pode olhar o [Storybook](https://storybook-my-links.renatolins.dev.br/).
+O site ainda está em Desenvolvimento mas já está em produção [aqui](https://my-links.renatolins.dev.br/).
+
+## TODO
+
+[x] Criar componente: LinkBox.
+[] Criar componente: Background.
+[] Acrescentar ícones.
+[] Fazer a conexão com o CMS.
+[] Acrescentar componente de SEO.
+
 
 ## Como Funciona a Aplicação
 
-Uma forma de compartilhar todos os links em uma só página da mesma forma que o Linktree faz, só que de graça :)
+Uma forma de compartilhar todos os links em uma só página da mesma forma que o Linktree faz, só que de graça. :)
 
 ## Instalação
 
