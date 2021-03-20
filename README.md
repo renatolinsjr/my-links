@@ -19,6 +19,8 @@
 
 EM BREVE!
 
+Enquanto isso, pode olhar o [Storybook](https://storybook-my-links.renatolins.dev.br/?path=/story/linkbox--default)
+
 ## Como Funciona a Aplicação
 
 Uma forma de compartilhar todos os links em uma só página da mesma forma que o Linktree faz, só que de graça :)
