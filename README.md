@@ -25,8 +25,10 @@ O site ainda está em Desenvolvimento mas já está em produção [aqui](https:/
 ## TODO
 
 - [x] Criar componente: LinkBox.
-- [ ] Criar componente: Background.
-- [ ] Acrescentar ícones.
+- [x] Criar componente: Container.
+- [x] Criar componente: Icon.
+- [ ] Criar componente: Header.
+- [ ] Criar componente: Footer.
 - [ ] Fazer a conexão com o CMS.
 - [ ] Acrescentar componente de SEO.
 
