@@ -10,7 +10,14 @@ export default function Home() {
       <LinkBox icon="github" href="https://github.com/renatolinsjr">
         Github
       </LinkBox>
-      <LinkBox icon="linkedin" href="https://www.linkedin.com/in/renatolinsjr/">
+      <LinkBox
+        icon="linkedin"
+        href={
+          isAndroid || isIOS
+            ? 'linkedin://in/renatolinsjr/'
+            : 'https://www.linkedin.com/in/renatolinsjr/'
+        }
+      >
         LinkedIn
       </LinkBox>
       <LinkBox
