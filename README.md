@@ -5,7 +5,8 @@
 </p>
 
 # 📸 My Links
-> Esse projeto foi criado com o intuito de compartilhar minhas redes sociais no Instagram e para poder treinar os tópicos: Storybook, TDD, Typescript e GraphQL.
+
+Esse projeto foi criado com o intuito de compartilhar minhas redes sociais no Instagram e para poder treinar os tópicos: Storybook, TDD, Typescript e GraphQL.
 
 | [Storybook](https://storybook-my-links.renatolins.dev.br/)  |  [my-links](https://my-links.renatolins.dev.br/)  |
 | ------------------- | ------------------- |
