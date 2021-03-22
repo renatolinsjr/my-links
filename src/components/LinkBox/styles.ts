@@ -17,16 +17,15 @@ export const wrapperModifiers = {
   `,
 
   highlight: (theme: DefaultTheme) => css`
+    margin-top: 8px;
     font-size: ${theme.font.sizes.xxlarge};
     background-color: ${theme.colors.highlightDark};
-    box-shadow: 0px 8px ${theme.colors.highlightDarkShadow};
+    box-shadow: -8px 8px ${theme.colors.highlightDarkShadow};
     margin-bottom: ${theme.spacings.large};
-    transform: translate(10px, 0);
-    animation: ${FadeInAnimation} 0.5s forwards ease-in;
 
     &:hover {
       transform: translate(0px, -4px);
-      box-shadow: 0px 14px ${theme.colors.highlightDarkShadow};
+      box-shadow: -14px 14px ${theme.colors.highlightDarkShadow};
     }
   `
 }
@@ -45,13 +44,13 @@ export const Wrapper = styled.a<LinkProps>`
     text-decoration: none;
     font-weight: bold;
     transition: all 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
-    box-shadow: 0px 6px ${theme.colors.primaryShadow};
+    box-shadow: -6px 6px ${theme.colors.primaryShadow};
     border-radius: ${theme.border.radius};
     max-width: 675px;
     animation: ${FadeInAnimation} 0.5s ease-in;
     &:hover {
       transform: translate(0px, -2px);
-      box-shadow: 0px 10px ${theme.colors.primaryShadow};
+      box-shadow: -10px 10px ${theme.colors.primaryShadow};
     }
 
     ${!!size && wrapperModifiers[size](theme)};
@@ -64,6 +63,6 @@ export const Wrapper = styled.a<LinkProps>`
 `
 
 const FadeInAnimation = keyframes`  
-  from { opacity: 0; transform: translate(0, 10px)}
+  from { opacity: 0; transform: translate(-5px, 10px)}
   to { opacity: 1; transform: translate(0, 0)}
 `
