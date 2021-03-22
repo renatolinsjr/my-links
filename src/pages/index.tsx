@@ -1,6 +1,8 @@
 import LinkBox from 'components/LinkBox'
 import Container from 'components/Container'
 
+import { isAndroid, isIOS } from 'react-device-detect'
+
 export default function Home() {
   return (
     <Container>
@@ -13,7 +15,11 @@ export default function Home() {
       </LinkBox>
       <LinkBox
         icon="facebook"
-        href="https://www.facebook.com/profile.php?id=100008647985839"
+        href={
+          isAndroid || isIOS
+            ? 'fb://profile.php?id=100008647985839'
+            : 'https://www.facebook.com/profile.php?id=100008647985839'
+        }
       >
         Facebook
       </LinkBox>

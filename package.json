@@ -24,6 +24,7 @@
     "next": "10.0.8",
     "next-pwa": "^5.0.5",
     "react": "17.0.1",
+    "react-device-detect": "^1.17.0",
     "react-dom": "17.0.1",
     "styled-components": "5.2.1",
     "styled-icons": "^10.29.0",
