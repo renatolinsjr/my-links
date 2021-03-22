@@ -3,7 +3,7 @@
 
 | [Storybook](https://storybook-my-links.renatolins.dev.br/)  |  [my-links](https://my-links.renatolins.dev.br/)  |
 | ------------------- | ------------------- |
-| ![storybook](https://user-images.githubusercontent.com/37521696/111929021-03e40480-8a94-11eb-8b3d-0703618ec309.gif) | ![my-links](https://user-images.githubusercontent.com/37521696/111929015-fd558d00-8a93-11eb-9a8d-0113ce1c6a5d.gif) |
+| ![Storybook](https://user-images.githubusercontent.com/37521696/111929021-03e40480-8a94-11eb-8b3d-0703618ec309.gif) | ![My Links](https://user-images.githubusercontent.com/37521696/111930761-6dfea880-8a98-11eb-8281-35827aa12858.gif) |
 
 ## Sumário
 
