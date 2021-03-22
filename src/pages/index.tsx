@@ -20,6 +20,9 @@ export default function Home() {
       >
         LinkedIn
       </LinkBox>
+      <LinkBox icon="github" href="https://github.com/renatolinsjr/my-links">
+        My Links - Repo
+      </LinkBox>
       <LinkBox
         icon="facebook"
         href={
