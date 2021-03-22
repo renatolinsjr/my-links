@@ -1,10 +1,13 @@
 # My Links
 > Esse projeto foi criado com o intuito de compartilhar minhas redes sociais no Instagram e para poder treinar os tópicos: Storybook, TDD, Typescript e GraphQL.
 
+| [Storybook](https://storybook-my-links.renatolins.dev.br/)  |  [my-links](https://my-links.renatolins.dev.br/)  |
+| ------------------- | ------------------- |
+| ![storybook](https://user-images.githubusercontent.com/37521696/111929021-03e40480-8a94-11eb-8b3d-0703618ec309.gif) | ![my-links](https://user-images.githubusercontent.com/37521696/111929015-fd558d00-8a93-11eb-9a8d-0113ce1c6a5d.gif) |
+
 ## Sumário
 
 - [Requisitos](#Requisitos)	
-- [Demonstração](#DEMO)
 - [Como Funciona a Aplicação](#Como-Funciona-a-Aplicação)
 - [Instalação](#Instalação)
 - [Redes Sociais e Portfólio](#Redes-Sociais-e-Portfólio)
@@ -14,12 +17,6 @@
 + [Node](https://nodejs.org/)
 + [NPM](https://www.npmjs.com/)
 + [React](https://reactjs.org/)
-
-## DEMO
-
-| [Storybook](https://storybook-my-links.renatolins.dev.br/)  |  [my-links](https://my-links.renatolins.dev.br/)  |
-| ------------------- | ------------------- |
-| ![storybook](https://user-images.githubusercontent.com/37521696/111929021-03e40480-8a94-11eb-8b3d-0703618ec309.gif) | ![my-links](https://user-images.githubusercontent.com/37521696/111929015-fd558d00-8a93-11eb-9a8d-0113ce1c6a5d.gif) |
 
 ## TODO
 
