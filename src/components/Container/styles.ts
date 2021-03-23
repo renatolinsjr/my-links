@@ -7,5 +7,6 @@ export const Wrapper = styled.main`
     height: 100%;
     margin: 0 auto;
     padding: ${theme.spacings.xxlarge} ${theme.spacings.xsmall} 0;
+    position: relative;
   `}
 `
