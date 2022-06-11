@@ -8,7 +8,7 @@ export type LinkProps = {
   size?: 'small' | 'medium' | 'large'
   backgroundColor?: 'primary' | 'highlight'
   href?: string
-  target?: 'blank' | 'self'
+  target?: '_blank' | '_self'
   highlight?: boolean
   icon?: 'facebook' | 'github' | 'linkedin' | 'site'
 }
@@ -19,7 +19,7 @@ const LinkBox = ({
   backgroundColor = 'primary',
   size = 'small',
   href = 'https://www.renatolins.dev.br/',
-  target = 'blank',
+  target = '_blank',
   highlight = false,
   icon = 'site'
 }: LinkProps) => (

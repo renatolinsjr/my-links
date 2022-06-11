@@ -6,7 +6,7 @@ import { isAndroid, isIOS } from 'react-device-detect'
 export default function Home() {
   return (
     <Container>
-      <LinkBox highlight>Site (desatualizado)</LinkBox>
+      <LinkBox highlight>Site</LinkBox>
       <LinkBox icon="github" href="https://github.com/renatolinsjr">
         Github
       </LinkBox>
@@ -19,19 +19,6 @@ export default function Home() {
         }
       >
         LinkedIn
-      </LinkBox>
-      <LinkBox icon="github" href="https://github.com/renatolinsjr/my-links">
-        My Links - Repo
-      </LinkBox>
-      <LinkBox
-        icon="facebook"
-        href={
-          isAndroid || isIOS
-            ? 'fb://profile.php?id=100008647985839'
-            : 'https://www.facebook.com/profile.php?id=100008647985839'
-        }
-      >
-        Facebook
       </LinkBox>
     </Container>
   )
